@@ -1,0 +1,6 @@
+* www.iconfinder.com
+* + : 인접 형제 선택자. 
+      바로 옆의 형제를 선택
+  ~ : 근접 형제 선택자
+* label은 inline 속성을 지님.
+  for는 for에 적은 것과 짝지어서 묶는 것
